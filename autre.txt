@@ -1,3 +1,5 @@
 fichier txt
 
-chagement dpuis github
+changement depuis github
+
+mais aussi depuis machine local
